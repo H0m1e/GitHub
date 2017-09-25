@@ -30,7 +30,7 @@ public class Book2 {
 		b1.getInfo();
 		b2.getInfo();
 		b3.getInfo();
-        //思考：如果实例很多 还能这样一一去改名字吗?
+        //思考：如果实例很多 还能这样一一去改名字吗？
 	
 
 }
