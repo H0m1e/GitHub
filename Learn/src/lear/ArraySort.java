@@ -25,6 +25,6 @@ public class ArraySort {
     sort(arr);
     print(arr, "≈≈–Ú∫Û");
     
-	}
+    }
 
 }
