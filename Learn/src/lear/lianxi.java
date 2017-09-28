@@ -10,7 +10,7 @@ public class lianxi {
 		}
 		return t;
 	}
-   public static void copy(int[]oldData,int[]newData) {//把久数组的数据复制到新数组
+   public static void copy(int[]oldData,int[]newData) {//把旧数组的数据复制到新数组
 	  int foot=0;//创建新数组下标
 	  for (int i = 0; i < oldData.length; i++) {
 		if (oldData[i]!=0) {
